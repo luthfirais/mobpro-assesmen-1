@@ -1,3 +1,17 @@
 <resources>
     <string name="app_name">Kalkulator Persegi Panjang</string>
+
+    <string name="kalkulator_intro">Aplikasi ini berfungsi untuk menghitung luas atau keliling dari Persegi Panjang</string>
+    <string name="panjang_sisi">Panjang</string>
+    <string name="lebar_sisi">Lebar</string>
+    <string name="perhitungan">Jenis Pehitungan : </string>
+    <string name="luas">Luas</string>
+    <string name="keliling">Keliling</string>
+    <string name="hitung">Hitung</string>
+
+    <string name="panjang_invalid">Panjang tidak boleh kosong.</string>
+    <string name="lebar_invalid">Lebar tidak boleh kosong.</string>
+    <string name="hitung_invalid">Pilih metode perhitungan.</string>
+
+    <string name="hitung_x">Hasil : %1$s</string>
 </resources>
