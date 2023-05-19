@@ -4,7 +4,7 @@
     <string name="kalkulator_intro">Aplikasi ini berfungsi untuk menghitung luas atau keliling dari Persegi Panjang</string>
     <string name="panjang_sisi">Panjang</string>
     <string name="lebar_sisi">Lebar</string>
-    <string name="perhitungan">Jenis Pehitungan : </string>
+    <string name="perhitungan">Hasil</string>
     <string name="luas">Luas</string>
     <string name="keliling">Keliling</string>
     <string name="hitung">Hitung</string>
@@ -13,5 +13,42 @@
     <string name="lebar_invalid">Lebar tidak boleh kosong.</string>
     <string name="hitung_invalid">Pilih metode perhitungan.</string>
 
-    <string name="hitung_x">Hasil : %1$s</string>
+    <string name="pp_x">Hasil : %1$s</string>
+    <string name="kecil">Kecil</string>
+    <string name="sedang">Sedang</string>
+    <string name="besar">Besar</string>
+    <string name="kategori_x">Kategori: %1$s</string>
+
+    <string name="judul_kecil">Ukuran Kecil</string>
+    <string name="judul_sedang">Ukuran Sedang</string>
+    <string name="judul_besar">Ukuran Besar</string>
+    
+    <string name="bentuk_kecil">Persegi Panjang berukuran Kecil</string>
+    <string name="bentuk_sedang">Persegi Panjang berukuran Sedang</string>
+    <string name="bentuk_besar">Persegi Panjang berukuran Besar</string>
+
+    <string name="lihat_bentuk">Bentuk Persegi Panjang</string>
+    
+    <string name="bagikan">Bagikan</string>
+
+    <string name="tentang_aplikasi">Tentang Aplikasi</string>
+
+    <string name="copyright">Kalkulator Persegi Panjang merupakan kalkulator untuk mengitung Luas atau Keliling suatu Persegi Panjang.Copyright © 2023 Luthfi Rais (Claudia Naura).\nAll rights reserved.</string>
+
+    <string name="bagikan_template">Panjang: %1$s\nLebar: %2$s\nMetode: %3$s\n\n%4$s\n%5$s</string>
+
+    <string name="belum_ada_data">Belum ada data</string>
+
+    <string name="histori">Histori</string>
+
+    <string name="hasil_x">Hasil: %1$.2f - %2$s</string>
+    <string name="data_x">Panjang: %1$.1f - Lebar: %2$.1f - %3$s</string>
+
+    <string name="hapus_histori">Hapus Histori</string>
+
+    <string name="hapus_konfirm">Apa anda yakin?</string>
+    <string name="hapus">Ya</string>
+    <string name="batal">Tidak</string>
+
+    <string name="date_format">%s/%d/%d</string>
 </resources>

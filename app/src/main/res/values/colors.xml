@@ -9,4 +9,7 @@
     <color name="white">#FFFFFFFF</color>
     <color name="lavender_200">#dcd0ff</color>
     <color name="lavender_500">#967bb6</color>
+    <color name="kecil">#B34593</color>
+    <color name="sedang">#2E7D32</color>
+    <color name="besar">#D32F2F</color>
 </resources>
